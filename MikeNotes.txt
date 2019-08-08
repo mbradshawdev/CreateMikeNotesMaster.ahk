@@ -1,0 +1,59 @@
+C:\Users\Harvey\Dropbox\DocSync\MikeScripts\Text\Create MikeNotes Text File
+
+
+\Example files for testing script
+
+                        
+  01 mp3                
+  02 mp3 track two has  
+  03 flac               
+  04 flac file with an  
+  05                    
+  06                    
+  07                    
+  08                    
+
+
+\Example files for testing script\CD1
+
+  1 flac                
+  2 mp3 - Copy          
+  3 mp3                 
+  4                     
+
+
+\Example files for testing script\CD2
+
+  a flac                
+  b mp3 - Copy          
+  c mp3                 
+  d                     
+
+
+\Named Copies\Example files for testing script
+
+                        
+  01 mp3                
+  02 mp3 track two has  
+  03 flac               
+  04 flac file with an  
+  05                    
+  06                    
+  07                    
+  08                    
+
+
+\Named Copies\Example files for testing script\CD1
+
+  1 flac                
+  2 mp3 - Copy          
+  3 mp3                 
+  4                     
+
+
+\Named Copies\Example files for testing script\CD2
+
+  a flac                
+  b mp3 - Copy          
+  c mp3                 
+  d                     
